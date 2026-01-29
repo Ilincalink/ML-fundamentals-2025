@@ -3,7 +3,7 @@
 Repository Overview
 This repository contains two comprehensive machine learning projects that demonstrate end-to-end data science workflows, from data preprocessing to model development and evaluation.
 
-🎯 Learning Objectives
+Learning Objectives:
 Aimed to develop practical skills in:
 
 Data Preprocessing: Cleaning, handling missing values, and feature engineering
@@ -16,11 +16,14 @@ Model Evaluation: Assessing performance and selecting optimal models
 
 Real-world Problem Solving: Applying ML techniques to practical scenarios
 
+
+
  Project 1: Classification Problem - Titanic Survival Prediction
-Problem Statement
+ 
+Problem Statement:
 Predict passenger survival on the Titanic using demographic and travel information.
 
-Dataset Characteristics
+Dataset Characteristics:
 Type: Historical passenger data
 
 Source: Public dataset (Excel format)
@@ -44,11 +47,13 @@ Feature selection methods
 
 Logistic regression implementation
 
+
+
  Project 2: Regression Problem - Bike Sharing Demand Prediction
-Problem Statement
+Problem Statement:
 Predict hourly bike rental counts based on environmental, seasonal, and temporal factors.
 
-Dataset Characteristics
+Dataset Characteristics:
 Type: Time-series transportation data
 
 Source: UCI Machine Learning Repository
@@ -72,8 +77,12 @@ Model performance comparison
 
 Bias-variance tradeoff analysis
 
+
+
+
 Technical Implementation
 Core Skills Developed:
+
 Data Preparation
 
 Missing value handling
@@ -112,6 +121,8 @@ Model interpretation
 
 Deployment considerations
 
+
+
 Tools & Technologies
 Programming: Python
 
@@ -126,6 +137,8 @@ Machine Learning: scikit-learn
 Visualization: matplotlib, seaborn
 
 Data Storage: Various format handling
+
+
 
 Project Workflow
 Each project follows a systematic approach:
