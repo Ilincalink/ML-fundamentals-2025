@@ -163,7 +163,4 @@ Each project follows a systematic machine learning pipeline:
 
 ---
 
-## Status
-✔️ Completed as part of a Machine Learning fundamentals learning track.
 
-⭐ If you find this repository useful, consider giving it a star!
